@@ -1,8 +1,9 @@
 # Learning Apache Spark Course
  Hi and welcome to the repository of the Learning Spark course.
- You can find all the source codes here.
+ You can find all the source codes of the Jupyter notebooks here.
 
- The full course is available in our Data Engineering Academy
+ The full course is available in our Data Engineering Academy at
+
 
 
 ## Course Contents
