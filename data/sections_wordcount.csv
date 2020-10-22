@@ -1,0 +1,93 @@
+1,1.1,What is this Cookbook
+1,1.2,Data Engineer vs Data Scientist
+1,1.3,My Data Science Platform Blueprint
+1,1.4,Who Companies Need
+2,2.1,Learn To Code
+2,2.2,Get Familiar With Git
+2,2.3,Agile Development
+2,2.4,Software Engineering Culture
+2,2.5,Learn how a Computer Works
+2,2.6,Data Network Transmission
+2,2.7,Security and Privacy
+2,2.8,Linux
+2,2.9,Docker
+2,2.10,The Cloud
+2,2.11,Security Zone Design
+3,3.1,Data Science Platform
+3,3.2,Hadoop Platforms
+3,3.3,Connect
+3,3.4,Buffer
+3,3.5,Processing Frameworks
+3,3.6,Store
+3,3.7,Visualize
+3,3.8,Machine Learning
+4,4.1,What We Want To Do
+4,4.2,Thoughts On Choosing A Development Environment
+4,4.3,A Look Into the Twitter API
+4,4.4,Ingesting Tweets with Apache Nifi
+4,4.5,Writing from Nifi to Apache Kafka
+4,4.6,Apache Zeppelin Data Processing
+4,4.7,Switch Processing from Zeppelin to Spark
+5,5.1,Data Science Airbnb
+5,5.2,Data Science Amazon
+5,5.3,Data Science Baidu
+5,5.4,Data Science Blackrock
+5,5.5,Data Science BMW
+5,5.6,Data Science Booking.com
+5,5.7,Data Science CERN
+5,5.8,Data Science Disney
+5,5.9,Data Science DLR
+5,5.10,Data Science Drivetribe
+5,5.11,Data Science Dropbox
+5,5.12,Data Science Ebay
+5,5.13,Data Science Expedia
+5,5.14,Data Science Facebook
+5,5.15,Data Science Google
+5,5.16,Data Science Grammarly
+5,5.17,Data Science ING Fraud
+5,5.18,Data Science Instagram
+5,5.19,Data Science LinkedIn
+5,5.20,Data Science Lyft
+5,5.21,Data Science NASA
+5,5.22,Data Science Netflix
+5,5.23,Data Science OLX
+5,5.24,Data Science OTTO
+5,5.25,Data Science Paypal
+5,5.26,Data Science Pinterest
+5,5.27,Data Science Salesforce
+5,5.28,Data Science Siemens Mindsphere
+5,5.29,Data Science Slack
+5,5.30,Data Science Spotify
+5,5.31,Data Science Symantec
+5,5.32,Data Science Tinder
+5,5.33,Data Science Twitter
+5,5.34,Data Science Uber
+5,5.35,Data Science Upwork
+5,5.36,Data Science Woot
+5,5.37,Data Science Zalando
+6,6.1,Amazon Web Services (AWS)
+6,6.2,Microsoft Azure
+6,6.3,Google Cloud Platform (GCP)
+7,7.1,General And Academic
+7,7.2,Content Marketing
+7,7.3,Crime
+7,7.4,Drugs
+7,7.5,Education
+7,7.6,Entertainment
+7,7.7,Environmental And Weather Data
+7,7.8,Financial And Economic Data
+7,7.9,Government And World
+7,7.10,Health
+7,7.11,Human Rights
+7,7.12,Labor And Employment Data
+7,7.13,Politics
+7,7.14,Retail
+7,7.15,Social
+7,7.16,Travel And Transportation
+7,7.17,Various Portals
+7,7.18,Source Articles and Blog Posts
+7,7.19,Free Data Sources Data Science
+8,8.1,Interview Questions
+9,9.1,About Books and Courses
+9,9.2,Books
+9,9.3,Online Courses
